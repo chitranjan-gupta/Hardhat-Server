@@ -1,0 +1,23 @@
+{
+  "name": "hardhat-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx hardhat node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chitranjan-gupta/Hardhat-Server.git"
+  },
+  "author": "Chitranjan Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chitranjan-gupta/Hardhat-Server/issues"
+  },
+  "homepage": "https://github.com/chitranjan-gupta/Hardhat-Server#readme",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.18.3"
+  }
+}
